@@ -1,0 +1,19 @@
+table,
+tr,
+td,
+th {
+    border: 1px dashed goldenrod
+}
+
+.cards {
+    box-shadow: 1px 1px 30px;
+
+}
+
+img {
+    width: 175px;
+}
+
+.delete {
+    color: red;
+}
